@@ -19,7 +19,7 @@ A comprehensive Claude skill that transforms Claude into an expert CV/resume str
 
 ### Option 1: Direct Installation (Recommended)
 
-1. Download the latest `cv-writer.skill` file from the [Releases](https://github.com/YOUR_USERNAME/cv-writer-skill/releases) page
+1. Download the latest `cv-writer.skill` file from the [Releases](https://github.com/adedayoagarau/cv-writer-skill/releases) page
 2. Open [Claude.ai](https://claude.ai)
 3. Go to Settings → Skills
 4. Click "Add Skill" or "Import Skill"
@@ -30,7 +30,7 @@ A comprehensive Claude skill that transforms Claude into an expert CV/resume str
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/cv-writer-skill.git
+git clone https://github.com/adedayoagarau/cv-writer-skill.git
 cd cv-writer-skill
 
 # Package the skill (requires Python 3.7+)
@@ -217,7 +217,7 @@ Built-in libraries for domain language:
 
 Contributions are welcome! Here's how you can help:
 
-1. **Report Issues**: Found a bug or have a suggestion? [Open an issue](https://github.com/YOUR_USERNAME/cv-writer-skill/issues)
+1. **Report Issues**: Found a bug or have a suggestion? [Open an issue](https://github.com/adedayoagarau/cv-writer-skill/issues)
 2. **Submit PRs**: Improvements to the skill, examples, or documentation
 3. **Share Examples**: Contribute before/after CV transformations
 4. **Add Formats**: Suggest new industry-specific formats
@@ -226,7 +226,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/cv-writer-skill.git
+git clone https://github.com/adedayoagarau/cv-writer-skill.git
 cd cv-writer-skill
 
 # Make your changes to cv-writer/SKILL.md
@@ -258,9 +258,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/cv-writer-skill/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/cv-writer-skill/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/adedayoagarau/cv-writer-skill/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/adedayoagarau/cv-writer-skill/discussions)
+- **Email**: adedayoagarau@gmail.com
 
 ## 🗺️ Roadmap
 
