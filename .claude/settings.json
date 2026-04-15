@@ -1,0 +1,73 @@
+{
+  "enabledPlugins": {
+    "superpowers@claude-plugins-official": true,
+    "minimax-skills@minimax-skills": true,
+    "codex@openai-codex": true,
+    "figma@claude-plugins-official": true,
+    "vercel@claude-plugins-official": true,
+    "supabase@claude-plugins-official": true,
+    "stripe@claude-plugins-official": true,
+    "netlify-skills@claude-plugins-official": true,
+    "firecrawl@claude-plugins-official": true,
+    "neon@claude-plugins-official": true,
+    "sanity-plugin@claude-plugins-official": true,
+    "huggingface-skills@claude-plugins-official": true,
+    "sentry@claude-plugins-official": true,
+    "terraform@claude-plugins-official": true,
+    "notion@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true,
+    "ecc@nikkimasani-everything-claude-code": true,
+    "marketing-skills@nikkimasani-claude-skills": true,
+    "c-level-skills@nikkimasani-claude-skills": true,
+    "engineering-advanced-skills@nikkimasani-claude-skills": true,
+    "engineering-skills@nikkimasani-claude-skills": true,
+    "ra-qm-skills@nikkimasani-claude-skills": true,
+    "product-skills@nikkimasani-claude-skills": true,
+    "pm-skills@nikkimasani-claude-skills": true,
+    "business-growth-skills@nikkimasani-claude-skills": true,
+    "finance-skills@nikkimasani-claude-skills": true,
+    "pw@nikkimasani-claude-skills": true,
+    "self-improving-agent@nikkimasani-claude-skills": true,
+    "autoresearch-agent@nikkimasani-claude-skills": true,
+    "content-creator@nikkimasani-claude-skills": true,
+    "demand-gen@nikkimasani-claude-skills": true,
+    "fullstack-engineer@nikkimasani-claude-skills": true,
+    "aws-architect@nikkimasani-claude-skills": true,
+    "product-manager@nikkimasani-claude-skills": true,
+    "scrum-master@nikkimasani-claude-skills": true,
+    "skill-security-auditor@nikkimasani-claude-skills": true,
+    "google-workspace-cli@nikkimasani-claude-skills": true,
+    "code-to-prd@nikkimasani-claude-skills": true,
+    "agenthub@nikkimasani-claude-skills": true,
+    "a11y-audit@nikkimasani-claude-skills": true,
+    "executive-mentor@nikkimasani-claude-skills": true,
+    "docker-development@nikkimasani-claude-skills": true,
+    "helm-chart-builder@nikkimasani-claude-skills": true,
+    "terraform-patterns@nikkimasani-claude-skills": true,
+    "research-summarizer@nikkimasani-claude-skills": true,
+    "code-tour@nikkimasani-claude-skills": true,
+    "demo-video@nikkimasani-claude-skills": true,
+    "data-quality-auditor@nikkimasani-claude-skills": true,
+    "statistical-analyst@nikkimasani-claude-skills": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-plugins-official": {
+      "source": { "source": "github", "repo": "anthropics/claude-plugins-official" }
+    },
+    "minimax-skills": {
+      "source": { "source": "git", "url": "https://github.com/MiniMax-AI/skills.git" }
+    },
+    "openai-codex": {
+      "source": { "source": "github", "repo": "openai/codex-plugin-cc" }
+    },
+    "nikkimasani-claude-skills": {
+      "source": { "source": "github", "repo": "alirezarezvani/claude-skills" }
+    },
+    "nikkimasani-everything-claude-code": {
+      "source": { "source": "github", "repo": "affaan-m/everything-claude-code" }
+    }
+  }
+}
